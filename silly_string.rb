@@ -52,5 +52,5 @@ sentence = sentence.gsub("A", "O")("a", "o")# Add your gsub chain here
 
 puts sentence
 
-puts "my favorite word is hi".upcase
+# puts "my favorite word is hi".upcase
 
